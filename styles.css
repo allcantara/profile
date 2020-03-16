@@ -14,7 +14,7 @@ html, body {
 body {
   font-family: Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-image: url('background');
+  background-image: url('background.jpg');
   background-position: unset;
   background-size: cover;
   background-repeat: no-repeat;
